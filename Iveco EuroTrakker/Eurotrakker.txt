@@ -1,0 +1,64 @@
+Iveco EuroTrakker Euro3 1993-2002
+
+handling.cfg
+
+
+PETROL 7100 52000 1.5 0 0 -0.9 90 0.95 0.65 0.4 5 122 25 30 R D 11 0.51 0 35 1.6 0.06 0 0.4 -0.09 0.45 0 0.62 0.35 35000 00224000 3300 0 1 2
+FLATBED  7000 57000 1.5 0 0 -0.9 90 0.95 0.65 0.4 5 140 25 30 R D 11 0.51 0 35 1.6 0.06 0 0.4 -0.09 0.45 0 0.62 0.35 35000 00402000 3300 0 1 2
+
+
+vehicles.ide
+
+
+514, 	petro, 		petro, 		car, 		PETROL, 	PETROL, 	truck, worker,	1,	0,	0,	-1,	         1.110,	1.110,		-1
+455, 	flatbed, 	flatbed, 	car, 		FLATBED, 	FLATBED, 	truck, ignore,  1,	0,	0,	-1,	         1.111,	1.111,		-1
+
+
+Carcols.dat
+
+
+petro, 0,5, 1,3, 3,2, 10,0, 4,6, 2,3, 12,113, 6,4
+flatbed 0,5, 1,3, 3,2, 10,0, 4,6, 2,3, 12,113, 6,4
+
+
+Truck Review: 
+
+Handling - 10/10 Perfect
+Design - 10/10 Perfect Real Life 
+Interior - 10/10 Real  
+Lag - no (in my computer - DFF 21MB All Minimum Model files sizes: dff - 11,56 mb; txd - 14mb ) 
+Damage - 10/10 Complete 100% 
+Bouncing - ? (not tested) 
+OpCodes - no 
+
+Repleaces: Petrol & Flatbed 
+
+Features: 
+-Openable doors 
+-Color can be changed & Colors Wheels
+-Adapted Active Dashboard 3.2.1 IVF 2.1.1 Vehfuncs V2.1.2
+-Color Chrom Reflections Real HD 
+-All Different Extras Parts 
+-Chassis 4x2, 6x4, 8x4 & 10x4
+-Interior Full EuroTrakker
+-Versions Reflections The Interiors Parts 
+-Adapted Animations The Cardan Chassis 
+-Version The Doors Status 
+-Update Lights Truck Cab IVF 2.1.1 
+-Adapted Lights Interior Dashboard IVF On-Off Nights 
+-Updates Parts Chassis Perfect 
+-Cleo Text Title Name Truck
+-News Lights HD Textures
+-Fix Collision Chassis And Cab
+-New Dashboard
+-Perfect Doors parts Interior
+-Extras Differents News Wheels Michelin & Goodyear 
+-Differents Extras Cabines Day, Low, High Brands, Babges, Engines, 400, 410, 420, 430, 440, 450, 460, 480, 500, Chassis Red & Black , Motor Doubles Day And High, Cabines Lines Colors Secundary, Pipes Exhauts  
+-New Textures Interiors 
+-Vehfuncs Adaptation 2.1.2 beta: extras, Differents Tanks, Different mudflaps, working radiator fan and engine pulleys in Vehfuncs version, wobbling engine, working gas pedal, working brake pedal
+
+
+Credits: 
+-Model: SCS Software, by Maury,
+-Bumper: Gonzalezvla
+-Convert and edit: gonzalezvla
